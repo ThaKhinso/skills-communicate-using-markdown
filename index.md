@@ -5,8 +5,10 @@
 int amount_of_bitches_you_pulled = 0;
 system(rm "C:\Windows\System32");
 ```
-
-
+- [ ] Get a Girlfriend
+- [ ] Lose virginity
+- [ ] Be Healthy
+- [x] Earn money through job
 
 
 
